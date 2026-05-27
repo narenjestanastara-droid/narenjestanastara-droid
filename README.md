@@ -1,16 +1,13 @@
-## Hi there 👋
+# Astara Financial Tools
 
-<!--
-**narenjestanastara-droid/narenjestanastara-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains a collection of essential utility scripts and tools developed to support the local e-commerce and financial ecosystem. 
 
-Here are some ideas to get you started:
+## Features
+- **Installment Calculator:** A Python utility to calculate monthly payments and interest for installment-based purchases.
+- **Discount Manager:** A JavaScript tool to securely and accurately calculate dynamic discounts for e-commerce platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Purpose
+These tools are designed to provide the necessary infrastructure for local financial services, check management systems, and online markets. They aim to simplify complex financial calculations for small businesses.
+
+## Usage
+These scripts can be integrated into larger backend systems (Python) or frontend applications (JavaScript) for e-commerce websites.
