@@ -11,3 +11,14 @@ These tools are designed to provide the necessary infrastructure for local finan
 
 ## Usage
 These scripts can be integrated into larger backend systems (Python) or frontend applications (JavaScript) for e-commerce websites.
+
+## Future Scope: MissAMarket Ecosystem
+
+These financial utilities are the foundational building blocks for a much larger upcoming project called **"MissAMarket"**. 
+
+**MissAMarket** is a comprehensive, AI and IoT-driven smart family life ecosystem designed to:
+- Empower vulnerable community groups through optimized local commerce.
+- Provide smart financial management and micro-lending infrastructure (using tools like the installment calculator).
+- Promote health and nutritional management at the family level using artificial intelligence.
+
+By building these open-source tools first, we are laying the groundwork for a more accessible, intelligent, and supportive digital economy for underserved communities.
